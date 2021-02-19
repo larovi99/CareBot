@@ -1,5 +1,9 @@
 # CareBot
-Carebot is a robotic project focused on helping the elderly and mobility reduced people in their daily tasks, such as grabbing things that are out of range, have fallen to the ground, or moving objects too heavy for them. 
+Carebot is a robotic project focused on helping the elderly and mobility reduced people in their daily tasks, such as grabbing things that are out of range, have fallen to the ground, or moving objects too heavy for them.
+
+![alt text](https://github.com/larovi99/CareBot/blob/main/images/robot_image.JPG)
+
+The information of all project is explained in the document inside the folder named "Result".
 
 ## Installation
 Python requirements
